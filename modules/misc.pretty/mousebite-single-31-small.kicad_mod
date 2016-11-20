@@ -1,0 +1,15 @@
+(module mousebite-single (layer F.Cu) (tedit 559996F2)
+  (fp_text reference REF** (at 0 4.064) (layer F.SilkS) hide
+    (effects (font (size 1 1) (thickness 0.18)))
+  )
+  (fp_text value VAL** (at 0 -3.81) (layer F.Fab) hide
+    (effects (font (size 1 1) (thickness 0.18)))
+  )
+  (fp_arc (start 0 -2.54) (end 0 -1.27) (angle 90) (layer F.Fab) (width 0.05))
+  (fp_arc (start 0 -2.54) (end 1.27 -2.54) (angle 90) (layer F.Fab) (width 0.05))
+  (fp_arc (start 0 2.54) (end -1.27 2.54) (angle 90) (layer F.Fab) (width 0.05))
+  (fp_arc (start 0 2.54) (end 0 1.27) (angle 90) (layer F.Fab) (width 0.05))
+  (pad "" np_thru_hole circle (at 1.016 1.016) (size 0.508 0.508) (drill 0.508) (layers *.Cu))
+  (pad "" np_thru_hole circle (at 1.016 0) (size 0.508 0.508) (drill 0.508) (layers *.Cu))
+  (pad "" np_thru_hole circle (at 1.016 -1.016) (size 0.508 0.508) (drill 0.508) (layers *.Cu))
+)

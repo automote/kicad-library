@@ -1,0 +1,12 @@
+(module Hole-Screw-NP-#2 (layer F.Cu) (tedit 574660F4)
+  (descr "Mounting Hole - Screw #2")
+  (attr virtual)
+  (fp_text reference REF** (at 0 -4.6) (layer F.SilkS) hide
+    (effects (font (size 1 1) (thickness 0.18)))
+  )
+  (fp_text value VAL** (at 0 4.7) (layer F.Fab) hide
+    (effects (font (size 1 1) (thickness 0.18)))
+  )
+  (pad P thru_hole circle (at 0 0) (size 2.2606 2.2606) (drill 2.2606) (layers *.Cu *.Mask)
+    (clearance 2.4257) (zone_connect 0))
+)

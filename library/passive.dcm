@@ -1,0 +1,64 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CAP
+D Capacitor
+K capacitor
+$ENDCMP
+#
+$CMP CAP-E
+D Electrolytic capacitor
+K capacitor electrolytic polarized
+$ENDCMP
+#
+$CMP CMC
+D Common mode choke
+K choke cmc
+$ENDCMP
+#
+$CMP CRYSTAL
+D Crystal
+K xtal crystal
+$ENDCMP
+#
+$CMP DIODE
+D Diode
+K diode
+$ENDCMP
+#
+$CMP FUSE
+D Fuse
+K fuse
+$ENDCMP
+#
+$CMP INDUCTOR
+D Inductor
+K inductor
+$ENDCMP
+#
+$CMP N-MOSFET
+D N-Channel MOSFET
+K MOSFET N
+$ENDCMP
+#
+$CMP POT
+D Resistor
+K resistor
+$ENDCMP
+#
+$CMP RESISTOR
+D Resistor
+K resistor
+$ENDCMP
+#
+$CMP SR05
+D TVS Diode Array
+K TVS diode
+F http://www.semtech.com/images/datasheet/sr05.pdf
+$ENDCMP
+#
+$CMP ZENER
+D Zener diode
+K zener diode
+$ENDCMP
+#
+#End Doc Library

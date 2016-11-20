@@ -1,0 +1,16 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ER-OLED1602-4W
+D 16x2 character OLED display
+$ENDCMP
+#
+$CMP LED
+D Led
+K led
+$ENDCMP
+#
+$CMP WS2812B
+D Digital 5050 RGB LED
+$ENDCMP
+#
+#End Doc Library

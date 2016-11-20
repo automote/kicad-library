@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ARIA-G25
+D AT91SAM9G25 SoM
+K at91 som
+F http://www.acmesystems.it/pinout_ariag25
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,33 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ADP2302
+D 2A Step-down regulator
+K regulator step-down
+F http://www.analog.com/media/en/technical-documentation/data-sheets/ADP2302_2303.pdf
+$ENDCMP
+#
+$CMP ADP2303
+D 3A Step-down regulator
+K regulator step-down
+F http://www.analog.com/media/en/technical-documentation/data-sheets/ADP2302_2303.pdf
+$ENDCMP
+#
+$CMP LM3526-H
+D Dual port USB power switch with OC protection
+K usb switch current
+F http://www.ti.com/lit/ds/symlink/lm3526.pdf
+$ENDCMP
+#
+$CMP LM3526-L
+D Dual port USB power switch with OC protection
+K usb switch current
+F http://www.ti.com/lit/ds/symlink/lm3526.pdf
+$ENDCMP
+#
+$CMP LP2981
+D 100 mA LDO Regulator w/ Shutdown
+K regulator linear LDO
+F http://www.ti.com/lit/ds/symlink/lp2981-33.pdf
+$ENDCMP
+#
+#End Doc Library

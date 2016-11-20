@@ -1,0 +1,13 @@
+(module Arrow (layer F.Cu) (tedit 550886C3)
+  (descr Arrow)
+  (fp_text reference REF** (at 0 1.905) (layer Dwgs.User) hide
+    (effects (font (size 1 1) (thickness 0.18)))
+  )
+  (fp_text value VAL** (at 0 -3.048 90) (layer F.SilkS) hide
+    (effects (font (size 1 1) (thickness 0.18)))
+  )
+  (fp_line (start 0 0.635) (end 0.762 -0.381) (layer F.SilkS) (width 0.18))
+  (fp_line (start 0.762 -0.381) (end -0.762 -0.381) (layer F.SilkS) (width 0.18))
+  (fp_line (start -0.762 -0.381) (end 0 0.635) (layer F.SilkS) (width 0.18))
+  (fp_poly (pts (xy 0 0.635) (xy -0.762 -0.381) (xy 0.762 -0.381)) (layer F.SilkS) (width 0.18))
+)

@@ -1,0 +1,11 @@
+(module WP-75mil-1x01 (layer F.Cu) (tedit 574660C1)
+  (descr "Wire pads - 75mil x 150 mil - Single row, 1 pos.")
+  (attr virtual)
+  (fp_text reference REF** (at 0 -3.175) (layer F.SilkS) hide
+    (effects (font (size 1 1) (thickness 0.18)))
+  )
+  (fp_text value VAL** (at 0 3.175) (layer F.Fab) hide
+    (effects (font (size 1 1) (thickness 0.18)))
+  )
+  (pad 1 smd oval (at 0 0) (size 1.905 3.81) (layers F.Cu F.Paste F.Mask))
+)

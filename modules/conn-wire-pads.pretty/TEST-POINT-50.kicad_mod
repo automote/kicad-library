@@ -1,0 +1,11 @@
+(module TEST-POINT-50 (layer F.Cu) (tedit 57465FC0)
+  (descr "Test Point - 50 mil")
+  (attr virtual)
+  (fp_text reference REF** (at 0 -1.905) (layer F.SilkS)
+    (effects (font (size 1 1) (thickness 0.18)))
+  )
+  (fp_text value VAL** (at 0 1.905) (layer F.Fab) hide
+    (effects (font (size 1 1) (thickness 0.18)))
+  )
+  (pad 1 smd circle (at 0 0) (size 1.27 1.27) (layers F.Cu F.Paste F.Mask))
+)

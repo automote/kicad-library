@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MOM-SPST
+D Momentary SPST switch
+$ENDCMP
+#
+$CMP MOM-SPST-GND
+D Momentary SPST switch with ground tabs
+$ENDCMP
+#
+$CMP TOUCH-KEY
+D Momentary SPST switch
+$ENDCMP
+#
+#End Doc Library
