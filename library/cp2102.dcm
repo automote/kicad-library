@@ -1,0 +1,7 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CP2102
+D CP2102 USB to UART Bridge
+$ENDCMP
+#
+#End Doc Library
