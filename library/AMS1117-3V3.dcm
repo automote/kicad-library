@@ -24,16 +24,16 @@ K POWER REGUL
 F regulator\lm79xx.pdf
 $ENDCMP
 #
-$CMP 79L05
-D Linear Regulator -5V
-K POWER REGUL
-F regulator\lm79lxx.pdf
-$ENDCMP
-#
 $CMP AMS1117-3V3
 D 800mA Low-Dropout Linear Regulator, adjustable output
 K linear regulator ldo adjustable positive
 F http://www.ti.com/lit/ds/symlink/lm1117.pdf
+$ENDCMP
+#
+$CMP 79L05
+D Linear Regulator -5V
+K POWER REGUL
+F regulator\lm79lxx.pdf
 $ENDCMP
 #
 $CMP AP1117
