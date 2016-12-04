@@ -1,0 +1,23 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#
+# Antenna_2.4GHz
+#
+DEF Antenna_2.4GHz A 0 40 Y Y 1 F N
+F0 "A" -150 400 60 H V C CNN
+F1 "Antenna_2.4GHz" -200 -150 60 H V C CNN
+F2 "" 0 0 60 H I C CNN
+F3 "" 0 0 60 H I C CNN
+DRAW
+C -200 150 200 0 1 0 N
+S -200 50 -200 -50 0 1 0 N
+S -200 250 -200 50 0 1 0 N
+P 2 0 1 0 -300 250 -200 100 N
+P 2 0 1 0 -100 250 -200 100 N
+X ~ 1 -400 -50 200 R 50 50 1 1 I
+X ~ 2 -600 150 200 R 50 50 1 1 I
+X ~ 3 200 150 200 L 50 50 1 1 I
+ENDDRAW
+ENDDEF
+#
+#End Library
