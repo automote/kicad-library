@@ -92,3 +92,13 @@ SOT SMT packages
 * Various components
 * Mouse bite patterns
 * LCD Modules
+
+
+### LoRa.pretty ###
+* RFM92/95/96/98
+
+### Xbee.pretty ###
+* Xbee_mod
+
+### sma.pretty ###
+* sma_edge
