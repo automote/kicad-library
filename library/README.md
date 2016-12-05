@@ -78,7 +78,7 @@ Note : Prefix SUP_ means that the type of pin in the symbol is defined as "power
 * ADP2303 : 3A Step-down regulator
 * LM3526 : Dual port USB power switch
 * LP2981 : 100 mA LDO Regulator w/ Shutdown
-
+* AMS1117 :3.3V fixed output voltage
 ----------------------------------
 
 ### ic-cpu ###
@@ -91,7 +91,7 @@ Note : Prefix SUP_ means that the type of pin in the symbol is defined as "power
 
 * AT42QT1070 : 7 channel QTouch Touch sensor IC
 * MCP9804 : Digital Temperature Sensor
-
+* RFM92/95/96/98
 ----------------------------------
 
 ### opto ###
