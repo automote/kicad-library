@@ -57,7 +57,7 @@ SOIC SMT package
 * 8,14,16 pins - Narrow (JEDEC MS-012AA)
 * 16,18,20,24,28 pins - Wide (JEDEC MS-013) 
 * 8 pins - Narrow w/ Exposed pad (JEDEC MS-012BA)
-
+* VBUS053AZ_0.5mm_pitch -(Esd protection 0.5mm pitch)
 
 ### smt-sop.pretty ###
 
@@ -98,7 +98,10 @@ SOT SMT packages
 * RFM92/95/96/98
 
 ### Xbee.pretty ###
-* Xbee_mod
+* XBee_mod
+* XBee_Plug
+* XBee_pro2
+* XBee_Socket
 
 ### sma.pretty ###
 * sma_edge
