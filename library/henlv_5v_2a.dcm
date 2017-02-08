@@ -1,7 +1,7 @@
 EESchema-DOCLIB  Version 2.0
 #
-$CMP USB_A_MALE_RECEPTACLE
-D USB MALE PCB only
+$CMP HenLv_5V_2A
+D AC-DC Power Supply
 $ENDCMP
 #
 #End Doc Library

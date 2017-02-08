@@ -1,0 +1,25 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#
+# Crystal
+#
+DEF Crystal Y 0 40 N N 1 F N
+F0 "Y" 0 150 50 H V C CNN
+F1 "Crystal" 0 -150 50 H V C CNN
+F2 "" 0 0 50 H V C CNN
+F3 "" 0 0 50 H V C CNN
+$FPLIST
+ Crystal_*
+$ENDFPLIST
+DRAW
+T 0 -150 100 60 0 0 0 1 Normal 0 C C
+T 0 150 100 60 0 0 0 2 Normal 0 C C
+S -50 100 50 -100 0 1 12 N
+P 2 0 1 12 -100 -50 -100 50 N
+P 2 0 1 12 100 -50 100 50 N
+X 1 1 -150 0 50 R 40 40 1 1 P
+X 2 2 150 0 50 L 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+#End Library
