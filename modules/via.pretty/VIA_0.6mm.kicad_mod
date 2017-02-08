@@ -1,4 +1,4 @@
-(module VIA'S:VIA_0.6mm (layer F.Cu) (tedit 586103AE)
+(module VIA'S:VIA_0.6mm (layer F.Cu) (tedit 58626A30)
   (fp_text reference REF** (at 0 -2.6) (layer F.Fab) hide
     (effects (font (size 1 1) (thickness 0.15)))
   )
