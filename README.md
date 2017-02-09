@@ -12,7 +12,7 @@ This is a single source of all the KiCAD libraries created by thingTronics Team.
 
 ## Maintainers
 
-The kicad-libraries is maintained by thingTronics Innovations.
+The kicad-library is maintained by thingTronics Innovations.
 
 Main contributor:
  * Lovelesh Patel @<lovelesh.patel@thingtronics.com>
