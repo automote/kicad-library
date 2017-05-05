@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CNT-RJ45_10PIN
+D  RJ-45 with shield
+K connector rj45 ethernet network
+$ENDCMP
+#
+#End Doc Library
