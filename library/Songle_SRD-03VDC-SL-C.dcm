@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP G5Q-1
+D OMRON G5G-1, Miniature Single Pole Relay, SPDT, 10A
+K Miniature Single Pole Relay
+F https://www.omron.com/ecb/products/pdf/en-g5q.pdf
+$ENDCMP
+#
+#End Doc Library
