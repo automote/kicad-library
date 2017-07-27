@@ -1,0 +1,11 @@
+EESchema-DOCLIB  Version 2.0
+$CMP SIM900A
+D GSM Module
+$ENDCMP
+#
+#
+$CMP SIM800
+D GSM Module
+$ENDCMP
+#
+#End Doc Library

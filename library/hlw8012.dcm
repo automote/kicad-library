@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP HLW8012
+D single phase energy monitor chip
+K energy monitoring
+$ENDCMP
+#
+#End Doc Library
