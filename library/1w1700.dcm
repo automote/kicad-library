@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 1W1700
+D Zero Power No-Load Off-Line Digital PWM Controller
+K PWM
+$ENDCMP
+#
+#End Doc Library
