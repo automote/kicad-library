@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ADG733
+D CMOS, 2.5ohm Low Voltage, Triple SPDT Switches
+K SPDT Switches
+F P:/PCB_Design/thingFeedback/Reference/ADG733_734-878564.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP NLAS5223/L
+D Ultra-Low 0.5ohm Dual SPDT Analog Switch
+K analog switch
+F P:/PCB_Design/thingFeedback/Reference/NLAS5223-D-63850.pdf
+$ENDCMP
+#
+#End Doc Library
