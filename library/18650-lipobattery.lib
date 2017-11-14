@@ -1,0 +1,20 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#
+# 18650-LipoBattery
+#
+DEF 18650-LipoBattery U 0 40 Y Y 1 F N
+F0 "U" 0 0 60 H V C CNN
+F1 "18650-LipoBattery" 50 150 60 H V C CNN
+F2 "" 100 0 60 H I C CNN
+F3 "" 100 0 60 H I C CNN
+DRAW
+S -400 100 450 -100 0 1 0 N
+S -350 0 -250 0 0 1 0 N
+S -300 100 -300 100 0 1 0 N
+S 300 0 400 0 0 1 0 N
+S 350 50 350 -50 0 1 0 N
+ENDDRAW
+ENDDEF
+#
+#End Library
