@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+$CMP 74HC32
+D 74HC32 is a quad 2-input OR gate.
+K OR_2
+$ENDCMP
+#
+#
+#End Doc Library
