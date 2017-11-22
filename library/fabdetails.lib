@@ -1,0 +1,18 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#
+# FabDetails
+#
+DEF FabDetails U 0 40 Y Y 1 F N
+F0 "U" 0 350 60 H V C CNN
+F1 "FabDetails" 0 250 60 H V C CNN
+F2 "" 0 0 60 H I C CNN
+F3 "" 0 0 60 H I C CNN
+DRAW
+T 0 -100 0 39 0 0 0 InLayout Normal 0 L C
+T 0 -100 100 39 0 0 0 PcbDetails Normal 0 L C
+S -200 150 250 -50 0 1 0 N
+ENDDRAW
+ENDDEF
+#
+#End Library
