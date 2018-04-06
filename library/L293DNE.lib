@@ -1,0 +1,42 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#(c) SnapEDA 2016 (snapeda.com)
+#This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA) with Design Exception 1.0
+#
+# L293DNE
+#
+DEF L293DNE IC 0 40 Y Y 1 L N
+F0 "IC" -401 841 50 H V L BNN
+F1 "L293DNE" -401 -901 50 H V L BNN
+F2 "DIP-16" 0 0 50 H I L BNN
+F3 "L293DNE" 0 0 50 H I L BNN
+F4 "DIP-16 Texas Instruments" 0 0 50 H I L BNN
+F5 "2.62 USD" 0 0 50 H I L BNN
+F6 "Good" 0 0 50 H I L BNN
+F7 "Logic - Buffers, Drivers, and Transceivers Quad Half-Hs" 0 0 50 H I L BNN
+F8 "Texas Instruments" 0 0 50 H I L BNN
+DRAW
+P 2 0 0 10 -400 800 -400 -800 N
+P 2 0 0 10 -400 -800 400 -800 N
+P 2 0 0 10 400 -800 400 800 N
+P 2 0 0 10 400 800 -400 800 N
+X 12EN 1 -600 700 200 R 40 40 0 0 I 
+X 1A 2 -600 500 200 R 40 40 0 0 I 
+X 1Y 3 -600 300 200 R 40 40 0 0 O 
+X GND1 4 -600 100 200 R 40 40 0 0 P 
+X GND2 5 -600 -100 200 R 40 40 0 0 P 
+X 2Y 6 -600 -300 200 R 40 40 0 0 O 
+X 2A 7 -600 -500 200 R 40 40 0 0 I 
+X VCC2 8 -600 -700 200 R 40 40 0 0 W 
+X VCC1 16 600 700 200 L 40 40 0 0 W 
+X 4A 15 600 500 200 L 40 40 0 0 I 
+X 4Y 14 600 300 200 L 40 40 0 0 O 
+X GND3 13 600 100 200 L 40 40 0 0 P 
+X GND4 12 600 -100 200 L 40 40 0 0 P 
+X 3Y 11 600 -300 200 L 40 40 0 0 O 
+X 3A 10 600 -500 200 L 40 40 0 0 I 
+X 34EN 9 600 -700 200 L 40 40 0 0 I 
+ENDDRAW
+ENDDEF
+#
+# End Library

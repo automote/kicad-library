@@ -1,0 +1,42 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#(c) SnapEDA 2016 (snapeda.com)
+#This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA) with Design Exception 1.0
+#
+# L293N
+#
+DEF L293N U 0 40 Y Y 1 L N
+F0 "U" -216 860 50 H V L BNN
+F1 "L293N" -182 -1119 50 H V L BNN
+F2 "DIP254P762X508-16" 0 0 50 H I L BNN
+F3 "Unavailable" 0 0 50 H I L BNN
+F4 "L293N" 0 0 50 H I L BNN
+F5 "None" 0 0 50 H I L BNN
+F6 "" 0 0 50 H I L BNN
+F7 "PDIP-16 STMicroelectronics" 0 0 50 H I L BNN
+F8 "Texas Instruments" 0 0 50 H I L BNN
+DRAW
+P 2 0 0 16 -500 800 -500 -1000 N
+P 2 0 0 16 -500 -1000 500 -1000 N
+P 2 0 0 16 500 -1000 500 800 N
+P 2 0 0 16 500 800 -500 800 N
+X VCC1 16 -700 600 200 R 40 40 0 0 W 
+X VCC2 8 -700 500 200 R 40 40 0 0 W 
+X 1,2EN 1 -700 300 200 R 40 40 0 0 I 
+X 3,4EN 9 -700 200 200 R 40 40 0 0 I 
+X 1A 2 -700 0 200 R 40 40 0 0 I 
+X 2A 7 -700 -100 200 R 40 40 0 0 I 
+X 3A 10 -700 -200 200 R 40 40 0 0 I 
+X 4A 15 -700 -300 200 R 40 40 0 0 I 
+X GND_2 13 -700 -500 200 R 40 40 0 0 P 
+X GND_3 4 -700 -600 200 R 40 40 0 0 P 
+X GND_4 5 -700 -700 200 R 40 40 0 0 P 
+X GND 12 -700 -800 200 R 40 40 0 0 P 
+X 1Y 3 700 600 200 L 40 40 0 0 O 
+X 2Y 6 700 500 200 L 40 40 0 0 O 
+X 3Y 11 700 400 200 L 40 40 0 0 O 
+X 4Y 14 700 300 200 L 40 40 0 0 O 
+ENDDRAW
+ENDDEF
+#
+# End Library
