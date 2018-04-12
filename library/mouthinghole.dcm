@@ -1,5 +1,9 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP MTH
+D Mounting Hole
+$ENDCMP
+#
 $CMP MouthingHole
 D Mounting Hole
 $ENDCMP
