@@ -4,7 +4,7 @@ $CMP MTH
 D Mounting Hole
 $ENDCMP
 #
-$CMP MouthingHole
+$CMP MountingHole
 D Mounting Hole
 $ENDCMP
 #
