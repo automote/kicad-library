@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0  Date: Fri Apr 27 16:56:24 2018
+$CMP SAMD20G18A-AU
+D TQFP48, 16K Flash, 2K RAM, 48MHz, CortexM0+
+K ARM 32bit Microcontroller 48MHz CortexM0+
+F http://www.atmel.com/Images/Atmel-42129-SAM-D20_Datasheet.pdf
+$ENDCMP
+#
+#End Library

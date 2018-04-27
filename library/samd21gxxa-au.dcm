@@ -1,10 +1,5 @@
 EESchema-DOCLIB  Version 2.0
 #
-$CMP SAMD20G14A-AU
-D TQFP48, 16K Flash, 2K RAM, 48MHz, CortexM0+
-K ARM 32bit Microcontroller 48MHz CortexM0+
-F http://www.atmel.com/Images/Atmel-42129-SAM-D20_Datasheet.pdf
-$ENDCMP
 #
 $CMP SAMD20G15A-AU
 D TQFP48, 32K Flash, 4K RAM, 48MHz, CortexM0+
@@ -24,7 +19,7 @@ K ARM 32bit Microcontroller 48MHz CortexM0+
 F http://www.atmel.com/Images/Atmel-42129-SAM-D20_Datasheet.pdf
 $ENDCMP
 #
-$CMP SAMD21G18A-AU
+$CMP SAMD21G18A-MU
 D QFN48, 16K Flash, 2K RAM, 48MHz, CortexM0+
 K ARM 32bit Microcontroller 48MHz CortexM0+
 F http://www.atmel.com/Images/Atmel-42129-SAM-D20_Datasheet.pdf
