@@ -24,14 +24,14 @@ K ARM 32bit Microcontroller 48MHz CortexM0+
 F http://www.atmel.com/Images/Atmel-42129-SAM-D20_Datasheet.pdf
 $ENDCMP
 #
-$CMP SAMD20G18A-AU
-D TQFP48, 256K Flash, 32K RAM, 48MHz, CortexM0+
+$CMP SAMD21G18A-AU
+D QFN48, 16K Flash, 2K RAM, 48MHz, CortexM0+
 K ARM 32bit Microcontroller 48MHz CortexM0+
 F http://www.atmel.com/Images/Atmel-42129-SAM-D20_Datasheet.pdf
 $ENDCMP
 #
-$CMP SAMD21G18A-AU
-D TQFP48, 16K Flash, 2K RAM, 48MHz, CortexM0+
+$CMP SAMD20G18A-AU
+D TQFP48, 256K Flash, 32K RAM, 48MHz, CortexM0+
 K ARM 32bit Microcontroller 48MHz CortexM0+
 F http://www.atmel.com/Images/Atmel-42129-SAM-D20_Datasheet.pdf
 $ENDCMP
