@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP PRTR5V0U2X
+D TVS DIODE 5.5V SOT143B
+K SOT143B
+F P:/PCB_Design/thingconnect/References/PRTR5V0U2X-1320589.pdf
+$ENDCMP
+#
+#End Doc Library
