@@ -1,0 +1,60 @@
+PCBNEW-LibModule-V1  
+# encoding utf-8
+Units mm
+$INDEX
+DO-214AC
+$EndINDEX
+$MODULE DO-214AC
+Po 0 0 0 15 00000000 00000000 ~~
+Li DO-214AC
+Cd <b>SURFACE MOUNT GENERAL RECTIFIER</b> JEDEC DO-214AC molded platic body<p>Method 2026<br>Source: http://www.kingtronics.com/SMD_M7/M7_SMD_4007.pdf
+Sc 00000000
+At SMD
+Op 0 0 0
+.SolderMask 0
+.SolderPaste 0
+T0 0 -2.54 1 1 0 0.05 N V 21 "DO-214AC"
+T1 0.635 2.54 1 1 0 0.05 N V 21 "VAL**"
+DS -2.15 -1.3 2.15 -1.3 0.2032 27
+DS 2.15 -1.3 2.15 1.3 0.2032 27
+DS 2.15 1.3 -2.15 1.3 0.2032 27
+DS -2.15 1.3 -2.15 -1.3 0.2032 27
+DS -1.035 -1.3 1.025 -1.3 0.2032 21
+DS 1.025 1.3 -1.035 1.3 0.2032 21
+DP 0 0 0 0 4 0 27
+Dl -2.825 -1.1
+Dl -2.175 -1.1
+Dl -2.175 1.1
+Dl -2.825 1.1
+DP 0 0 0 0 4 0 27
+Dl 2.825 1.1
+Dl 2.175 1.1
+Dl 2.175 -1.1
+Dl 2.825 -1.1
+DP 0 0 0 0 4 0 21
+Dl -1.065 -1.225
+Dl -0.39 -1.225
+Dl -0.39 1.225
+Dl -1.065 1.225
+DP 0 0 0 0 4 0 27
+Dl -1.75 -1.225
+Dl -1.075 -1.225
+Dl -1.075 1.225
+Dl -1.75 1.225
+$PAD
+Sh "C" R 1.8 2.4 0 0 0
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -2.025 0
+$EndPAD
+$PAD
+Sh "A" R 1.8 2.4 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 2.025 0
+$EndPAD
+$EndMODULE DO-214AC
